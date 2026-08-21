@@ -1,0 +1,6 @@
+sign_mnist_train.csv
+sign_mnist_test.csv
+HRE/train.csv
+HRE/test.csv
+.ipynb_checkpoints/
+.idea/
